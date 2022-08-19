@@ -1,0 +1,19 @@
+{
+  "name": "vpsio-docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "npm run docs:dev",
+    "docs:dev": "vuepress dev",
+    "docs:build": "vuepress build",
+    "postbuild": "vuepress-sitemap -H https://cloud.vpsio.net -d dist"
+  },
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  },
+  "dependencies": {
+    "esm": "^3.2.25",
+    "vuepress-plugin-sitemap": "^2.3.1"
+  }
+}
