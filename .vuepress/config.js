@@ -15,32 +15,32 @@ module.exports = {
     head: [
         ['link', {
             rel: 'home',
-            href: 'https://forge.laravel.com',
+            href: 'https://docs.vpsio.net',
         }],
         ['link', {
             rel: 'apple-touch-icon',
             sizes: '180x180',
-            href: 'https://forge.laravel.com/apple-touch-icon.png',
+            href: 'https://vpsio.net/images/apple-touch-icon.png',
         }],
         ['link', {
             rel: 'icon',
             sizes: '16x16',
             type: 'image/png',
-            href: 'https://forge.laravel.com/favicon-16x16.png',
+            href: 'https://vpsio.net/images/favicon-16x16.png',
         }],
         ['link', {
             rel: 'icon',
             sizes: '32x32',
             type: 'image/png',
-            href: 'https://forge.laravel.com/favicon-32x32.png',
+            href: 'https://vpsio.net/images/favicon-32x32.png',
         }],
         ['link', {
             rel: 'manifest',
-            href: 'https://forge.laravel.com/site.webmanifest',
+            href: 'https://vpsio.net/images/site.webmanifest',
         }],
         ['link', {
             rel: 'mask-icon',
-            href: 'https://forge.laravel.com/safari-pinned-tab.svg',
+            href: 'https://vpsio.net/images/safari-pinned-tab.svg',
         }],
         ['meta', {
             name: 'msapplication-TileColor',
@@ -48,7 +48,7 @@ module.exports = {
         }],
         ['meta', {
             name: 'msapplication-TileImage',
-            content: 'forge.laravel.com/mstile-144x144.png',
+            content: 'https://vpsio.net/images/mstile-150x150.png',
         }],
         ['meta', {
             name: 'theme-color',

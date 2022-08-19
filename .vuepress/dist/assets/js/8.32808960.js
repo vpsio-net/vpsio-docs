@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{272:function(t,n,e){"use strict";e.r(n);var s=e(13),o=Object(s.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("meta",{attrs:{"http-equiv":"refresh",content:"0;url=/1.0/accounts/your-account.html"}})])}),[],!1,null,null,null);n.default=o.exports}}]);
