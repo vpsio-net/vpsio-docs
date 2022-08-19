@@ -78,7 +78,7 @@ module.exports = {
     ],
 
     themeConfig: {
-        repo: 'laravel/forge-docs',
+        repo: 'laravel/vpsio-docs',
         editLinks: true,
         editLinkText: 'Edit this page on GitHub',
 
